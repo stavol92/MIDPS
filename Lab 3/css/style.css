@@ -1,0 +1,107 @@
+#wrapper {
+	background-color: #FFF;
+	height: auto;
+	width: 750px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-bottom: 25px;
+	margin-left: auto;
+	border: 1px solid #666;
+}
+body {
+	background-image: url(../img/lghtmesh.png);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+#wrapper h1 {
+	color: #F00;
+	text-align: center;
+	margin-top: 20px;
+	margin-right: 60px;
+	margin-bottom: 25px;
+	margin-left: 60px;
+}
+#wrapper h2 {
+	font-size: 24px;
+	text-align: center;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+#wrapper p {
+	margin-right: 40px;
+	margin-left: 40px;
+}
+#authorImg {
+	float: left;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+.centerContent {
+	text-align: center;
+}
+.testimonal {
+	width: 550px;
+	border: 1px solid #999;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#wrapper .testimonal p img {
+	float: left;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+#wrapper .testimonal p {
+	font-size: 12px;
+}
+#wrapper .testimonal h3 {
+	color: #F00;
+	text-align: center;
+}
+#header {
+	height: 75px;
+	width: 750px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	border: 1px solid #666;
+}
+#header a {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	color: #00F;
+	margin-left: 10px;
+}
+
+#header a:hover {
+    color: #800000; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+   }
+
+.m_but {
+	margin-top: 25px;
+	float: left;
+	height: 20px;
+	width: auto;
+}
+#header #b1 {
+	width: 80px;
+	height: 20px;
+}
+#header #b1 #a1 {
+	margin-left: 15px;
+	color: #000066;
+}
+#wrapper a {
+}
+#wrapper table {
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+#wrapper span {
+}
